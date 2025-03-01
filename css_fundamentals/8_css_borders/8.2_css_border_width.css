@@ -1,0 +1,15 @@
+p.one {
+    border-style: solid;
+    border-width: 5px 20px;
+    /*5px on top and bottom and 20px on the sides*/
+}
+p.two {
+    border-style: solid;
+    border-width: 20px 5px; 
+    /*20px on top and bottom and 5px on sides*/
+}
+p.three {
+    border-style: solid;
+    border-width: 20px 10px 4px 25px;
+     /*20px on top, 10px on right, 5px on bottom, 25px on left*/
+}
