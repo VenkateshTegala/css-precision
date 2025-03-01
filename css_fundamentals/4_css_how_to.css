@@ -19,4 +19,12 @@ Three ways to insert CSS::
 
 3.Inline CSS
 <h1 style="color:blue;text-align:center;">This is a heading</h1>
+
+4.Multiple style sheets
+<link rel="stylesheet" href="mystyle.css">
+<style>
+    h1 {
+        color: orange;
+    }
+</style>
 */
