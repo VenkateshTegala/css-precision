@@ -1,0 +1,23 @@
+/**/
+body {
+    background-color: lightblue;
+}
+/*other elements*/
+h1 {
+    background-color: green;
+}
+p {
+    background-color: yellow;
+}
+
+/*Opacity*/
+div {
+    background-color: green;
+    opacity: 0.3;
+}
+
+/*Transparency using rgba*/
+div  {
+    background-color: rgba(0, 128, 0, 0.3);
+    /*That is green background with 30% opacity*/
+}
