@@ -1,0 +1,17 @@
+/*General one*/
+p.one {
+    border-color: red;
+}
+/*Specific side colors*/
+p.two {
+    border-color: red green yellow blue;
+    /*red top, green right, yellow bottom, blue left*/
+}
+/*Hex values*/
+p.three {
+    border-color: #ff0000; /*red*/
+}
+/*RGB*/
+p.four {
+    border-color: rgb(255, 0, 0);
+}
