@@ -1,0 +1,10 @@
+/*Instead Of*/
+p {
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+}
+/*We can use like*/
+p {
+    border: 5px solid red;
+}
