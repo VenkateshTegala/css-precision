@@ -1,0 +1,8 @@
+body {
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed; /*If fixed then the image wont move even the screen scrolls*/
+    /*background-attachment: scroll;*/ 
+    /*If it is scroll then image will move along with the scorlling*/
+}
