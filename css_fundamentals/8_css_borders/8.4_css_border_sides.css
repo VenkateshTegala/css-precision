@@ -1,0 +1,25 @@
+/*Individual sides*/
+p {
+    border-left-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: double;
+}
+
+/*Pairs*/
+p.four {
+    border-style: dashed dotted solid double;
+    /*top right bottom and left*/
+}
+p.three {
+    border-style: dotted dashed solid;
+    /*top leftright and bottom*/
+}
+p.two {
+    border-style: dotted dashed;
+    /*topbottom and leftright*/
+}
+p.one {
+    border-style: dashed;
+    /*every side*/
+}
