@@ -1,0 +1,13 @@
+/*Instead of this :*/
+body {
+    background-color: #ffffff;
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+/*Using shorthand property*/
+/*Can be implemented in single line*/
+body {
+    background: #ffffff url("img_tree.png") no-repeat right top;
+}
