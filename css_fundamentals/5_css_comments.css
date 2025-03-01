@@ -1,0 +1,11 @@
+/*This is a single line comment*/
+
+/*Comment in the middle of a code line*/
+p {
+    color:/*red*/ red
+}
+
+/*
+This is a multi-line 
+ccomment
+*/
